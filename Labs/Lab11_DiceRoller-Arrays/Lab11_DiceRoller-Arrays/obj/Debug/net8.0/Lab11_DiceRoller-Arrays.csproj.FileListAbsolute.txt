@@ -1,0 +1,15 @@
+C:\Users\Aryeh\VisiualStudio\repos\IT_1050\Labs\Lab11_DiceRoller-Arrays\Lab11_DiceRoller-Arrays\bin\Debug\net8.0\Lab11_DiceRoller-Arrays.exe
+C:\Users\Aryeh\VisiualStudio\repos\IT_1050\Labs\Lab11_DiceRoller-Arrays\Lab11_DiceRoller-Arrays\bin\Debug\net8.0\Lab11_DiceRoller-Arrays.deps.json
+C:\Users\Aryeh\VisiualStudio\repos\IT_1050\Labs\Lab11_DiceRoller-Arrays\Lab11_DiceRoller-Arrays\bin\Debug\net8.0\Lab11_DiceRoller-Arrays.runtimeconfig.json
+C:\Users\Aryeh\VisiualStudio\repos\IT_1050\Labs\Lab11_DiceRoller-Arrays\Lab11_DiceRoller-Arrays\bin\Debug\net8.0\Lab11_DiceRoller-Arrays.dll
+C:\Users\Aryeh\VisiualStudio\repos\IT_1050\Labs\Lab11_DiceRoller-Arrays\Lab11_DiceRoller-Arrays\bin\Debug\net8.0\Lab11_DiceRoller-Arrays.pdb
+C:\Users\Aryeh\VisiualStudio\repos\IT_1050\Labs\Lab11_DiceRoller-Arrays\Lab11_DiceRoller-Arrays\obj\Debug\net8.0\Lab11_DiceRoller-Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aryeh\VisiualStudio\repos\IT_1050\Labs\Lab11_DiceRoller-Arrays\Lab11_DiceRoller-Arrays\obj\Debug\net8.0\Lab11_DiceRoller-Arrays.AssemblyInfoInputs.cache
+C:\Users\Aryeh\VisiualStudio\repos\IT_1050\Labs\Lab11_DiceRoller-Arrays\Lab11_DiceRoller-Arrays\obj\Debug\net8.0\Lab11_DiceRoller-Arrays.AssemblyInfo.cs
+C:\Users\Aryeh\VisiualStudio\repos\IT_1050\Labs\Lab11_DiceRoller-Arrays\Lab11_DiceRoller-Arrays\obj\Debug\net8.0\Lab11_DiceRoller-Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Aryeh\VisiualStudio\repos\IT_1050\Labs\Lab11_DiceRoller-Arrays\Lab11_DiceRoller-Arrays\obj\Debug\net8.0\Lab11_DiceRoller-Arrays.sourcelink.json
+C:\Users\Aryeh\VisiualStudio\repos\IT_1050\Labs\Lab11_DiceRoller-Arrays\Lab11_DiceRoller-Arrays\obj\Debug\net8.0\Lab11_DiceRoller-Arrays.dll
+C:\Users\Aryeh\VisiualStudio\repos\IT_1050\Labs\Lab11_DiceRoller-Arrays\Lab11_DiceRoller-Arrays\obj\Debug\net8.0\refint\Lab11_DiceRoller-Arrays.dll
+C:\Users\Aryeh\VisiualStudio\repos\IT_1050\Labs\Lab11_DiceRoller-Arrays\Lab11_DiceRoller-Arrays\obj\Debug\net8.0\Lab11_DiceRoller-Arrays.pdb
+C:\Users\Aryeh\VisiualStudio\repos\IT_1050\Labs\Lab11_DiceRoller-Arrays\Lab11_DiceRoller-Arrays\obj\Debug\net8.0\Lab11_DiceRoller-Arrays.genruntimeconfig.cache
+C:\Users\Aryeh\VisiualStudio\repos\IT_1050\Labs\Lab11_DiceRoller-Arrays\Lab11_DiceRoller-Arrays\obj\Debug\net8.0\ref\Lab11_DiceRoller-Arrays.dll

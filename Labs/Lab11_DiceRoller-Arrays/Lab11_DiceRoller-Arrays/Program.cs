@@ -33,7 +33,7 @@ while (DThrows > 0)
     //Incrementor
     DThrows--; ThrowCount++;
     //Freq tracker
-    // Increment the count for the rolled value, adjusting for the array index (2 corresponds to index 0).
+    //Increment the count for the rolled value, adjusting for the array index (2 corresponds to index 0).
     Rolls[DTotal - 2]++;
 }
 

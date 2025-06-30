@@ -1,0 +1,15 @@
+C:\Users\Aryeh\VS2022\repos\IT_1050\Labs\Lab12_DiceRoller-Methods\Lab12_DiceRoller-Methods\bin\Debug\net8.0\Lab12_DiceRoller-Methods.exe
+C:\Users\Aryeh\VS2022\repos\IT_1050\Labs\Lab12_DiceRoller-Methods\Lab12_DiceRoller-Methods\bin\Debug\net8.0\Lab12_DiceRoller-Methods.deps.json
+C:\Users\Aryeh\VS2022\repos\IT_1050\Labs\Lab12_DiceRoller-Methods\Lab12_DiceRoller-Methods\bin\Debug\net8.0\Lab12_DiceRoller-Methods.runtimeconfig.json
+C:\Users\Aryeh\VS2022\repos\IT_1050\Labs\Lab12_DiceRoller-Methods\Lab12_DiceRoller-Methods\bin\Debug\net8.0\Lab12_DiceRoller-Methods.dll
+C:\Users\Aryeh\VS2022\repos\IT_1050\Labs\Lab12_DiceRoller-Methods\Lab12_DiceRoller-Methods\bin\Debug\net8.0\Lab12_DiceRoller-Methods.pdb
+C:\Users\Aryeh\VS2022\repos\IT_1050\Labs\Lab12_DiceRoller-Methods\Lab12_DiceRoller-Methods\obj\Debug\net8.0\Lab12_DiceRoller-Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aryeh\VS2022\repos\IT_1050\Labs\Lab12_DiceRoller-Methods\Lab12_DiceRoller-Methods\obj\Debug\net8.0\Lab12_DiceRoller-Methods.AssemblyInfoInputs.cache
+C:\Users\Aryeh\VS2022\repos\IT_1050\Labs\Lab12_DiceRoller-Methods\Lab12_DiceRoller-Methods\obj\Debug\net8.0\Lab12_DiceRoller-Methods.AssemblyInfo.cs
+C:\Users\Aryeh\VS2022\repos\IT_1050\Labs\Lab12_DiceRoller-Methods\Lab12_DiceRoller-Methods\obj\Debug\net8.0\Lab12_DiceRoller-Methods.csproj.CoreCompileInputs.cache
+C:\Users\Aryeh\VS2022\repos\IT_1050\Labs\Lab12_DiceRoller-Methods\Lab12_DiceRoller-Methods\obj\Debug\net8.0\Lab12_DiceRoller-Methods.sourcelink.json
+C:\Users\Aryeh\VS2022\repos\IT_1050\Labs\Lab12_DiceRoller-Methods\Lab12_DiceRoller-Methods\obj\Debug\net8.0\Lab12_DiceRoller-Methods.dll
+C:\Users\Aryeh\VS2022\repos\IT_1050\Labs\Lab12_DiceRoller-Methods\Lab12_DiceRoller-Methods\obj\Debug\net8.0\refint\Lab12_DiceRoller-Methods.dll
+C:\Users\Aryeh\VS2022\repos\IT_1050\Labs\Lab12_DiceRoller-Methods\Lab12_DiceRoller-Methods\obj\Debug\net8.0\Lab12_DiceRoller-Methods.pdb
+C:\Users\Aryeh\VS2022\repos\IT_1050\Labs\Lab12_DiceRoller-Methods\Lab12_DiceRoller-Methods\obj\Debug\net8.0\Lab12_DiceRoller-Methods.genruntimeconfig.cache
+C:\Users\Aryeh\VS2022\repos\IT_1050\Labs\Lab12_DiceRoller-Methods\Lab12_DiceRoller-Methods\obj\Debug\net8.0\ref\Lab12_DiceRoller-Methods.dll

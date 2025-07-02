@@ -19,6 +19,7 @@ int userInput;
 //Too high will cause an overflow, so let's limit it to 15.
 Console.Write("Enter a number lower than 16 to calculate its factorial: "); userInput = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine();
+//`Factorial(userInput)` is called an Argument, which is the counterpart to a parameter inside a calling line of code.
 Console.WriteLine("The factorial of " + userInput + " is " + Factorial(userInput));
 
 //Finally, a method can only return one value at a time, but multiple parameters can be sent at one time.

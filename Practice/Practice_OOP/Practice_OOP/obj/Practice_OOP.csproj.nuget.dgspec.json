@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Aryeh\\VS2022\\repos\\IT_1050\\Practice_OOP\\Practice_OOP\\Practice_OOP.csproj": {}
+    "C:\\Users\\Dan\\VS2022\\repos\\Practice\\Practice_OOP\\Practice_OOP\\Practice_OOP.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Aryeh\\VS2022\\repos\\IT_1050\\Practice_OOP\\Practice_OOP\\Practice_OOP.csproj": {
+    "C:\\Users\\Dan\\VS2022\\repos\\Practice\\Practice_OOP\\Practice_OOP\\Practice_OOP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Aryeh\\VS2022\\repos\\IT_1050\\Practice_OOP\\Practice_OOP\\Practice_OOP.csproj",
+        "projectUniqueName": "C:\\Users\\Dan\\VS2022\\repos\\Practice\\Practice_OOP\\Practice_OOP\\Practice_OOP.csproj",
         "projectName": "Practice_OOP",
-        "projectPath": "C:\\Users\\Aryeh\\VS2022\\repos\\IT_1050\\Practice_OOP\\Practice_OOP\\Practice_OOP.csproj",
-        "packagesPath": "C:\\Users\\Aryeh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Aryeh\\VS2022\\repos\\IT_1050\\Practice_OOP\\Practice_OOP\\obj\\",
+        "projectPath": "C:\\Users\\Dan\\VS2022\\repos\\Practice\\Practice_OOP\\Practice_OOP\\Practice_OOP.csproj",
+        "packagesPath": "C:\\Users\\Dan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Dan\\VS2022\\repos\\Practice\\Practice_OOP\\Practice_OOP\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Aryeh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Dan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36301.6 d17.14
+VisualStudioVersion = 17.14.36301.6
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practice_OOP-Constructors", "Practice_OOP-Constructors\Practice_OOP-Constructors.csproj", "{9604266F-90E8-48DD-8992-F70F12C1E45F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practice_OOP", "..\Practice_OOP\Practice_OOP\Practice_OOP.csproj", "{056138F0-D7B5-34D8-C463-3F681A886B82}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{9604266F-90E8-48DD-8992-F70F12C1E45F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9604266F-90E8-48DD-8992-F70F12C1E45F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9604266F-90E8-48DD-8992-F70F12C1E45F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{056138F0-D7B5-34D8-C463-3F681A886B82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{056138F0-D7B5-34D8-C463-3F681A886B82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{056138F0-D7B5-34D8-C463-3F681A886B82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{056138F0-D7B5-34D8-C463-3F681A886B82}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

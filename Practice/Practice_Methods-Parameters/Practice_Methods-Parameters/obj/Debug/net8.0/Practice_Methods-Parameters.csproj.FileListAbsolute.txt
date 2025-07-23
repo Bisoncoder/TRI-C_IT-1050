@@ -1,0 +1,15 @@
+C:\Users\Aryeh\VS2022\repos\IT_1050\Practice_Methods-Parameters\Practice_Methods-Parameters\bin\Debug\net8.0\Practice_Methods-Parameters.exe
+C:\Users\Aryeh\VS2022\repos\IT_1050\Practice_Methods-Parameters\Practice_Methods-Parameters\bin\Debug\net8.0\Practice_Methods-Parameters.deps.json
+C:\Users\Aryeh\VS2022\repos\IT_1050\Practice_Methods-Parameters\Practice_Methods-Parameters\bin\Debug\net8.0\Practice_Methods-Parameters.runtimeconfig.json
+C:\Users\Aryeh\VS2022\repos\IT_1050\Practice_Methods-Parameters\Practice_Methods-Parameters\bin\Debug\net8.0\Practice_Methods-Parameters.dll
+C:\Users\Aryeh\VS2022\repos\IT_1050\Practice_Methods-Parameters\Practice_Methods-Parameters\bin\Debug\net8.0\Practice_Methods-Parameters.pdb
+C:\Users\Aryeh\VS2022\repos\IT_1050\Practice_Methods-Parameters\Practice_Methods-Parameters\obj\Debug\net8.0\Practice_Methods-Parameters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aryeh\VS2022\repos\IT_1050\Practice_Methods-Parameters\Practice_Methods-Parameters\obj\Debug\net8.0\Practice_Methods-Parameters.AssemblyInfoInputs.cache
+C:\Users\Aryeh\VS2022\repos\IT_1050\Practice_Methods-Parameters\Practice_Methods-Parameters\obj\Debug\net8.0\Practice_Methods-Parameters.AssemblyInfo.cs
+C:\Users\Aryeh\VS2022\repos\IT_1050\Practice_Methods-Parameters\Practice_Methods-Parameters\obj\Debug\net8.0\Practice_Methods-Parameters.csproj.CoreCompileInputs.cache
+C:\Users\Aryeh\VS2022\repos\IT_1050\Practice_Methods-Parameters\Practice_Methods-Parameters\obj\Debug\net8.0\Practice_Methods-Parameters.sourcelink.json
+C:\Users\Aryeh\VS2022\repos\IT_1050\Practice_Methods-Parameters\Practice_Methods-Parameters\obj\Debug\net8.0\Practice_Methods-Parameters.dll
+C:\Users\Aryeh\VS2022\repos\IT_1050\Practice_Methods-Parameters\Practice_Methods-Parameters\obj\Debug\net8.0\refint\Practice_Methods-Parameters.dll
+C:\Users\Aryeh\VS2022\repos\IT_1050\Practice_Methods-Parameters\Practice_Methods-Parameters\obj\Debug\net8.0\Practice_Methods-Parameters.pdb
+C:\Users\Aryeh\VS2022\repos\IT_1050\Practice_Methods-Parameters\Practice_Methods-Parameters\obj\Debug\net8.0\Practice_Methods-Parameters.genruntimeconfig.cache
+C:\Users\Aryeh\VS2022\repos\IT_1050\Practice_Methods-Parameters\Practice_Methods-Parameters\obj\Debug\net8.0\ref\Practice_Methods-Parameters.dll

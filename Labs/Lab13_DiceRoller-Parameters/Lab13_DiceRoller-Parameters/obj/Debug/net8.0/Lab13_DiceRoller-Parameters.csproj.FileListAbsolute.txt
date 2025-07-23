@@ -1,0 +1,15 @@
+C:\Users\Aryeh\VS2022\repos\IT_1050\Lab13_DiceRoller-Parameters\Lab13_DiceRoller-Parameters\bin\Debug\net8.0\Lab13_DiceRoller-Parameters.exe
+C:\Users\Aryeh\VS2022\repos\IT_1050\Lab13_DiceRoller-Parameters\Lab13_DiceRoller-Parameters\bin\Debug\net8.0\Lab13_DiceRoller-Parameters.deps.json
+C:\Users\Aryeh\VS2022\repos\IT_1050\Lab13_DiceRoller-Parameters\Lab13_DiceRoller-Parameters\bin\Debug\net8.0\Lab13_DiceRoller-Parameters.runtimeconfig.json
+C:\Users\Aryeh\VS2022\repos\IT_1050\Lab13_DiceRoller-Parameters\Lab13_DiceRoller-Parameters\bin\Debug\net8.0\Lab13_DiceRoller-Parameters.dll
+C:\Users\Aryeh\VS2022\repos\IT_1050\Lab13_DiceRoller-Parameters\Lab13_DiceRoller-Parameters\bin\Debug\net8.0\Lab13_DiceRoller-Parameters.pdb
+C:\Users\Aryeh\VS2022\repos\IT_1050\Lab13_DiceRoller-Parameters\Lab13_DiceRoller-Parameters\obj\Debug\net8.0\Lab13_DiceRoller-Parameters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aryeh\VS2022\repos\IT_1050\Lab13_DiceRoller-Parameters\Lab13_DiceRoller-Parameters\obj\Debug\net8.0\Lab13_DiceRoller-Parameters.AssemblyInfoInputs.cache
+C:\Users\Aryeh\VS2022\repos\IT_1050\Lab13_DiceRoller-Parameters\Lab13_DiceRoller-Parameters\obj\Debug\net8.0\Lab13_DiceRoller-Parameters.AssemblyInfo.cs
+C:\Users\Aryeh\VS2022\repos\IT_1050\Lab13_DiceRoller-Parameters\Lab13_DiceRoller-Parameters\obj\Debug\net8.0\Lab13_DiceRoller-Parameters.csproj.CoreCompileInputs.cache
+C:\Users\Aryeh\VS2022\repos\IT_1050\Lab13_DiceRoller-Parameters\Lab13_DiceRoller-Parameters\obj\Debug\net8.0\Lab13_DiceRoller-Parameters.sourcelink.json
+C:\Users\Aryeh\VS2022\repos\IT_1050\Lab13_DiceRoller-Parameters\Lab13_DiceRoller-Parameters\obj\Debug\net8.0\Lab13_DiceRoller-Parameters.dll
+C:\Users\Aryeh\VS2022\repos\IT_1050\Lab13_DiceRoller-Parameters\Lab13_DiceRoller-Parameters\obj\Debug\net8.0\refint\Lab13_DiceRoller-Parameters.dll
+C:\Users\Aryeh\VS2022\repos\IT_1050\Lab13_DiceRoller-Parameters\Lab13_DiceRoller-Parameters\obj\Debug\net8.0\Lab13_DiceRoller-Parameters.pdb
+C:\Users\Aryeh\VS2022\repos\IT_1050\Lab13_DiceRoller-Parameters\Lab13_DiceRoller-Parameters\obj\Debug\net8.0\Lab13_DiceRoller-Parameters.genruntimeconfig.cache
+C:\Users\Aryeh\VS2022\repos\IT_1050\Lab13_DiceRoller-Parameters\Lab13_DiceRoller-Parameters\obj\Debug\net8.0\ref\Lab13_DiceRoller-Parameters.dll

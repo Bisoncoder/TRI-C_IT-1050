@@ -1,0 +1,15 @@
+C:\Users\Aryeh\VS2022\repos\IT_1050\Lab14_DiceRoller-D&D\Lab14_DiceRoller-D&D\bin\Debug\net8.0\Lab14_DiceRoller-D&D.exe
+C:\Users\Aryeh\VS2022\repos\IT_1050\Lab14_DiceRoller-D&D\Lab14_DiceRoller-D&D\bin\Debug\net8.0\Lab14_DiceRoller-D&D.deps.json
+C:\Users\Aryeh\VS2022\repos\IT_1050\Lab14_DiceRoller-D&D\Lab14_DiceRoller-D&D\bin\Debug\net8.0\Lab14_DiceRoller-D&D.runtimeconfig.json
+C:\Users\Aryeh\VS2022\repos\IT_1050\Lab14_DiceRoller-D&D\Lab14_DiceRoller-D&D\bin\Debug\net8.0\Lab14_DiceRoller-D&D.dll
+C:\Users\Aryeh\VS2022\repos\IT_1050\Lab14_DiceRoller-D&D\Lab14_DiceRoller-D&D\bin\Debug\net8.0\Lab14_DiceRoller-D&D.pdb
+C:\Users\Aryeh\VS2022\repos\IT_1050\Lab14_DiceRoller-D&D\Lab14_DiceRoller-D&D\obj\Debug\net8.0\Lab14_DiceRoller-D&D.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aryeh\VS2022\repos\IT_1050\Lab14_DiceRoller-D&D\Lab14_DiceRoller-D&D\obj\Debug\net8.0\Lab14_DiceRoller-D&D.AssemblyInfoInputs.cache
+C:\Users\Aryeh\VS2022\repos\IT_1050\Lab14_DiceRoller-D&D\Lab14_DiceRoller-D&D\obj\Debug\net8.0\Lab14_DiceRoller-D&D.AssemblyInfo.cs
+C:\Users\Aryeh\VS2022\repos\IT_1050\Lab14_DiceRoller-D&D\Lab14_DiceRoller-D&D\obj\Debug\net8.0\Lab14_DiceRoller-D&D.csproj.CoreCompileInputs.cache
+C:\Users\Aryeh\VS2022\repos\IT_1050\Lab14_DiceRoller-D&D\Lab14_DiceRoller-D&D\obj\Debug\net8.0\Lab14_DiceRoller-D&D.sourcelink.json
+C:\Users\Aryeh\VS2022\repos\IT_1050\Lab14_DiceRoller-D&D\Lab14_DiceRoller-D&D\obj\Debug\net8.0\Lab14_DiceRoller-D&D.dll
+C:\Users\Aryeh\VS2022\repos\IT_1050\Lab14_DiceRoller-D&D\Lab14_DiceRoller-D&D\obj\Debug\net8.0\refint\Lab14_DiceRoller-D&D.dll
+C:\Users\Aryeh\VS2022\repos\IT_1050\Lab14_DiceRoller-D&D\Lab14_DiceRoller-D&D\obj\Debug\net8.0\Lab14_DiceRoller-D&D.pdb
+C:\Users\Aryeh\VS2022\repos\IT_1050\Lab14_DiceRoller-D&D\Lab14_DiceRoller-D&D\obj\Debug\net8.0\Lab14_DiceRoller-D&D.genruntimeconfig.cache
+C:\Users\Aryeh\VS2022\repos\IT_1050\Lab14_DiceRoller-D&D\Lab14_DiceRoller-D&D\obj\Debug\net8.0\ref\Lab14_DiceRoller-D&D.dll

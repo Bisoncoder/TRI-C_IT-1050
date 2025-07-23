@@ -1,0 +1,3 @@
+﻿//We already know that when an object is instantiated from a class, it recieves all the variables of the class. But what if we we haven't set the variables yet? What do they default to?
+//In C#, "value type" variables (like int, float, double, etc.) default to 0, while "reference type" variables (like string, object, etc.) default to null. This is the same "null" in the `NullPointerException` error, where you try to access a variable that hasn't been set yet.
+//This 
